@@ -1,0 +1,1 @@
+# Statistical-analysis-and-visualization-of-seismic-magnitude-and-depth-quantities
